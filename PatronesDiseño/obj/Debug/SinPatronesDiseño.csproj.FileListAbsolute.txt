@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\bin\Debug\PatronesDiseño.exe.config
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\bin\Debug\PatronesDiseño.exe
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\bin\Debug\PatronesDiseño.pdb
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\obj\Debug\SinPatronesDiseño.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\obj\Debug\SinPatronesDiseño.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\obj\Debug\PatronesDiseño.exe
+C:\Users\Admin\source\repos\SistemaUniversitario\PatronesDiseño\obj\Debug\PatronesDiseño.pdb

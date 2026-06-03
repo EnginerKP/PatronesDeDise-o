@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\bin\Debug\SinPatronesDiseño.exe.config
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\bin\Debug\SinPatronesDiseño.exe
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\bin\Debug\SinPatronesDiseño.pdb
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\obj\Debug\ConPatronesDiseño.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\obj\Debug\ConPatronesDiseño.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\obj\Debug\SinPatronesDiseño.exe
+C:\Users\Admin\source\repos\SistemaUniversitario\SinPatronesDiseño\obj\Debug\SinPatronesDiseño.pdb
